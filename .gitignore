@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/github/gitignore/main/Global/macOS.gitignore
+# https://raw.githubusercontent.com/github/gitignore/main/Global/macOS.gitignore
 # General
 .DS_Store
 .AppleDouble
@@ -27,7 +27,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-https://raw.githubusercontent.com/github/gitignore/main/Global/Windows.gitignore
+# https://raw.githubusercontent.com/github/gitignore/main/Global/Windows.gitignore
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
@@ -53,6 +53,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-https://raw.githubusercontent.com/github/gitignore/main/Global/Windows.gitignore
+# https://raw.githubusercontent.com/github/gitignore/main/Global/Windows.gitignore
 # LibreOffice locks
 .~lock.*#
