@@ -14,5 +14,5 @@ Im Bereich "data" sind die für diesen Entwurf aufbereiteten Daten aus dem Lobby
 Im Bereich "data/graph" sind die aufbereiteten Daten für die Abfrage hinterlegt, die für das Ausführen des zweiten Skriptes "AK_Entwurf_Lobbytracker_Abfrage.ipynb" benötigt werden. Im Skript ist das Google-Colab-File verlinkt; die Daten werden beim Ausführen des Skriptes in den Zwischenspeicher bei Google Colab gespeichert, die erzeugten csv-Dateien können von dort heruntergeladen werden. 
 
 ## Nächste Schritte:
-- Hinzufügen der Daten der Parteispenden-Datenbank von Lobbycontrol https://lobbypedia.de/wiki/Parteispenden-Datenbank und der Daten zu den Nebentätigkeiten der Mitglieder des Deutschen Bundestages von abgeordnetenwatch.de
+- Hinzufügen der Daten der Parteispenden-Datenbank von Lobbycontrol https://lobbypedia.de/wiki/Parteispenden-Datenbank und der Daten zu den Nebentätigkeiten der Mitglieder des Deutschen Bundestages von https://abgeordnetenwatch.de
 - Dokumentation
