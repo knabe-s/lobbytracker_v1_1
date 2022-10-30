@@ -4,7 +4,7 @@ Ziel des Projektes ist es, die Daten des Lobbyregisters beim Deutschen Bundestag
 
 ## Vorgehen: 
 Vorbereitend werden die Datenstrukturen angeglichen und Schreibweisen normalisiert. 
-Aus diesen Daten wird unter Einsatz von Python und NetworkX ein Graph erstellt (Google-Colab-File; Skript AK_Entwurf_Lobbytracker.ipynb); in einem zweiten Skript können die Daten abgefragt und in ein csv-File gespeichert werden (AK_Entwurf_Lobbytracker_Abfrage.ipynb).
+Aus diesen Daten wird unter Einsatz von Python und NetworkX ein Graph erstellt (Google-Colab-File; Skript AK_Entwurf_Lobbytracker.ipynb); in einem zweiten Skript können die Daten abgefragt und das Ergebnis der Abfrage in ein csv-File gespeichert werden (AK_Entwurf_Lobbytracker_Abfrage.ipynb).
 
 ## Derzeitiger Arbeitsstand: 
 Die Skripte sind funktionsfähig; die Daten aus dem Lobbyregister beim Deutschen Bundestag (Stand: 20.09.2022) sind für diesen ersten Entwurf grob aufbereitet.
