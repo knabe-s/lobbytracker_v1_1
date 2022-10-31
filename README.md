@@ -15,4 +15,6 @@ Im Bereich "data/graph" sind die aufbereiteten Daten für die Abfrage hinterlegt
 
 ## Nächste Schritte:
 - Hinzufügen der Daten der Parteispenden-Datenbank von Lobbycontrol https://lobbypedia.de/wiki/Parteispenden-Datenbank und der Daten zu den Nebentätigkeiten der Mitglieder des Deutschen Bundestages von https://abgeordnetenwatch.de
+- Überarbeiten der Datenstruktur
+- Überarbeiten der Struktur der erzeugten csv-Datei
 - Dokumentation
