@@ -3,3 +3,5 @@
 - beide entstandenden csvs als eigene Projekte in OpenRefine öffnen
 ### 2) in beiden Projekten eine neue Spalte aus 'label_fuer_abgleich' erstellen
 - dort dann via regex alle non-word-characters entfernen: value.replace(/\W/, "")
+  - potentielles Problem: nicht-Standardzeichen fallen auch weg (ä,ü,ö,ß)
+    - df
