@@ -2,5 +2,4 @@
 - via Textfacette über 'role'
 - beide entstandenden csvs als eigene Projekte in OpenRefine öffnen
 ### 2) in beiden Projekten eine neue Spalte aus 'label_fuer_abgleich' erstellen
-- dort dann via regex alle non-word-characters entfernen
-  value.replace(/\W/, "")
+- dort dann via regex alle non-word-characters entfernen: value.replace(/\W/, "")
